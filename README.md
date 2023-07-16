@@ -1,3 +1,3 @@
-# Performance Management Tool User guide
+# ProductName User guide
 
-Brief preview of user guides for a performance management tool.
+A brief preview of user guides for ProductName - a performance management tool.
